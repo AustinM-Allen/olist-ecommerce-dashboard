@@ -1,5 +1,10 @@
 # # Olist E-Commerce Performance Dashboard
-Power BI dashboard analyzing using brazilian e-commerce public dataset. It shows a 5 page report with insights.
+Power BI dashboard analyzing a real brazilian e-commerce public dataset. It shows a 5 page report with insights.
+
+# About
+**Austin M. Allen**  
+December 2025 Virgina Tech Computer Science Graduate | Data Analyst  
+[LinkedIn](https://www.linkedin.com/in/austin-m-allen)
 
 ## View Dashboard
 
